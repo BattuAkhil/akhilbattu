@@ -288,7 +288,7 @@ http://<EC2-IP>:3000
 # 👨‍💻 Author
 
 **Akhil Battu**
-
+- Gitlab repo: https://gitlab.com/akhilbattu/shopsphere
 - GitHub: https://github.com/BattuAkhil
 - LinkedIn: https://www.linkedin.com/in/akhil-battu-66b8a1364/
 
