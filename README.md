@@ -65,16 +65,6 @@ I work across **CI/CD, cloud infrastructure, containers, Kubernetes, Infrastruct
 
 ---
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=akhilbattu&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=akhilbattu&theme=shadow_green&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=akhilbattu&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-battu-66b8a1364/)
